@@ -93,12 +93,3 @@ version ships.
 
 Questions or concerns: **mykhailo.pihosh@gmail.com**
 
-## Usage statistics (optional)
-
-SyncSpot can send anonymous usage statistics to our analytics provider (PostHog, EU-hosted):
-event names (e.g. "sync", "contact_created"), a timestamp, the extension version, a random
-installation identifier, and a display name. The display name is either the one you enter in
-Settings or, if left blank, your OWN LinkedIn name (derived from your own profile URL read once
-from your feed) — never the name of anyone whose profile you view.
-It never includes message contents, LinkedIn profile data, HubSpot contact data or your token.
-You can turn this off at any time in Settings → Usage stats.
